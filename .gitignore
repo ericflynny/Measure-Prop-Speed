@@ -1,0 +1,11 @@
+*.docx
+*.pdf
+.DS_Store
+__pycache__/
+.pio/
+*.o
+*.hex
+*.elf
+*.csv
+*.html
+.vscode
